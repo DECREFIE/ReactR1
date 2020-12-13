@@ -1,0 +1,9 @@
+const config = {
+  apiKey: AIzaSyCkmY4iyAmiE-S6kMj_VXwxTJ0jYj3yPMc,
+  authDomain: YOUR_AUTH_DOMAIN,
+  databaseURL: YOUR_DATABASE_URL,
+  projectId: ,
+  storageBucket: '',
+  messagingSenderId: YOUR_MESSAGING_SENDER_ID,
+};
+,
